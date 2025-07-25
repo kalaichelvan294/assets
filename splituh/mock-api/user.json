@@ -16,7 +16,7 @@
         "isDarkMode": false,
         "language": "en_us",
         "currency": "INR",
-        "isPremiumUser": false,
+        "isPremiumUser": true,
         "premiumEndsOn": null,
         "passwordUpdatedOn": "2024-01-15T10:30:00Z",
         "failedLoginAttempts": [],
